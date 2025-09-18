@@ -1,7 +1,8 @@
-# HW-1-
+# HW-1-RahulV
 
-HW 1 Fall 2025 Software Engineering / IPD 
+HW 1 Fall 2025 Software Engineering submission for Rahul Vellanki Fall 2025
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+Here is a link to a funny video:
+https://www.youtube.com/watch?v=q6EoRBvdVPQ
 
 
